@@ -71,7 +71,7 @@ describe("Admin create admin token", function () {
             });
           }
         );
-      });
+      }); 
     });
   });
-});
+}); 
